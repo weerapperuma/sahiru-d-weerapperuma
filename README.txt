@@ -22,9 +22,9 @@ Welcome to my personal portfolio! This is where I showcase my recent projects, s
 
 ## Projects
 
-- [Project 1 Name] - Brief description of the project.
-- [Project 2 Name] - Brief description of the project.
-- [Project 3 Name] - Brief description of the project.
+- Web Development with react.
+- Spring boot.
+- Node.js.
 
 You can check out all my projects and explore the details on the "Projects" section of my portfolio.
 
@@ -34,4 +34,4 @@ To clone and run the portfolio locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/weerapperuma/sahiru-d-weerapperuma.git
