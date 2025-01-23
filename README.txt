@@ -1,31 +1,37 @@
-Solid State by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Sahiru Deshan's Portfolio
 
+Welcome to my personal portfolio! This is where I showcase my recent projects, skills, and my journey as a software engineer.
 
-After a somewhat extended break from HTML5 UP (to work on a secret-ish new project --
-more on that later!) I'm back with a brand new design: Solid State, a slick new multi-
-pager that combines some of the ideas I've played with over at Pixelarity with an "angular"
-sort of look. Hope you dig it :)
+## Features
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+- A modern, clean design highlighting my skills and recent projects.
+- Contact form for getting in touch.
+- Responsive layout for all devices.
+- Detailed sections for each project.
 
-(* = not included)
+## Skills
 
-AJ
-aj@lkn.io | @ajlkn
+- React
+- JavaScript
+- TypeScript
+- HTML, CSS
+- Node.js, Express
+- MongoDB
+- Git & GitHub
+- Agile methodologies
 
+## Projects
 
-Credits:
+- [Project 1 Name] - Brief description of the project.
+- [Project 2 Name] - Brief description of the project.
+- [Project 3 Name] - Brief description of the project.
 
-	Demo Images:
-		Unsplash (unsplash.com)
+You can check out all my projects and explore the details on the "Projects" section of my portfolio.
 
-	Icons:
-		Font Awesome (fontawesome.io)
+## Getting Started
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+To clone and run the portfolio locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/portfolio.git
